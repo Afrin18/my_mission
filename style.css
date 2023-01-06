@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+ /* Header Section  */
+.header{
+    background-color: skyblue;
+    background-image: url(images/banner/banner1.png);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    height: 670px;
+    
+}
+.header-section{
+    text-align: right;
+    padding: 170px 150px 100px 800px;
+}
+.header-title{
+    text-align: right;
+    font-weight: 700;
+    font-size: 50px;
+}
+.header-description{
+    margin-top: 30px;
+    color: #7e7e7e;
+}
+.btn-primary{
+    color: aliceblue;
+    font-weight: 500;
+    font-size: 17px;
+    border: 0;
+    height: 40px;
+    border-radius: 5px;
+    background: red;
+    padding: 0px 23px;
+    margin-top: 30px;
+}
+ /* Main Section */
+
+ /* Footer Section */
